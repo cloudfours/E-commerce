@@ -1,16 +1,9 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+    "producto": [{
+        "url": "./img/cabeza7.jfif",
+        "nombre": "muñeco",
+        "precio": "4599",
+        "descripcion": "nuevo",
+        "id": "3a4d6ee9-18a3-4f8f-be6c-002f0a45f027"
+    }]
 }
